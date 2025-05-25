@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1748203839 source:t:\gp\test3\main.cpp
+	<GL/glut.h>
+	<iostream>
+	<string>
+	<vector>
+	<cmath>
+
